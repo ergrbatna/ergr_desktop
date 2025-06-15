@@ -63,11 +63,11 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-  uses-material-design: false
-  fonts:
-    - family: MaterialIcons
-      fonts:
-        - asset: assets/fonts/MaterialIcons-Regular.ttf
+  uses-material-design: true
+  # fonts:
+  #   - family: MaterialIcons
+  #     fonts:
+  #       - asset: assets/fonts/MaterialIcons-Regular.ttf
 
   
 
